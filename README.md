@@ -5,3 +5,4 @@ You can create a folder Juggler-Game add all the souce code provided in the Jugg
 Go to terminal and into the deriectory of the File created with the source code.
 Compile using command javac *.java in terminal
 Run using java Test in terminal.
+# Example Run
