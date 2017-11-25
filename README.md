@@ -1,7 +1,9 @@
 # Juggler-Game
 
 ```
-You will have a juggler (Stephen) who is using two data structures to juggle (his hands and the air). His hands will be modeled with a simple data structure that holds a single juggling ball at a time, and the air will be modeled as a queue data structure which can hold a 
+You will have a juggler (Stephen) who is using two data structures to juggle (his hands and the air).
+His hands will be modeled with a simple data structure that holds a single juggling ball at a time, 
+and the air will be modeled as a queue data structure which can hold a 
 several items.
 
 ```
