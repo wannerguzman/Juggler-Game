@@ -6,3 +6,6 @@ Go to terminal and into the deriectory of the File created with the source code.
 Compile using command javac *.java in terminal
 Run using java Test in terminal.
 # Example Run
+![Screenshot](Test1.JPG)
+![Screenshot](Test2.JPG)
+![Screenshot](Test3.JPG)
