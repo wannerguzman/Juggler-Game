@@ -10,7 +10,7 @@ several items.
 # Compile
 
 ```
-You can create a folder Juggler-Game add all the source code provided in the Juggler filer above.
+You can create a folder and add all the source code provided in the Juggler folder.
 Go to terminal and into the directory of the File created with the source code.
 Compile using command javac *.java in terminal
 Run using java Test in terminal.
